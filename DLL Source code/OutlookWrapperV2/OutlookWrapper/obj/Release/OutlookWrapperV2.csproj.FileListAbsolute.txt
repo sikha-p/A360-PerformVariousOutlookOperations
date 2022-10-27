@@ -1,0 +1,7 @@
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\bin\Release\OutlookWrapperV2.dll
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\bin\Release\OutlookWrapperV2.pdb
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\obj\Release\OutlookWrapperV2.csproj.ResolveComReference.cache
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\obj\Release\OutlookWrapperV2.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\obj\Release\OutlookWrapperV2.dll
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\obj\Release\OutlookWrapperV2.pdb
+C:\Users\Sikha.P\source\repos\OutlookWrapperV2\OutlookWrapper\obj\Release\OutlookWrapperV2.csprojAssemblyReference.cache
